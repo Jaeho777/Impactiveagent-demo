@@ -1,0 +1,32 @@
+[
+  {
+    "event_date": "2026-04-02",
+    "item_group": "wiper-blade",
+    "region": "수도권 거점",
+    "event_flag": "spring_rain_promotion",
+    "expected_inflow": 140,
+    "signal_score": 18,
+    "source": "운영 공지",
+    "description": "다음 달 프로모션 이벤트와 강우 예보가 겹치며 와이퍼 블레이드 유입 수요 증가 예상"
+  },
+  {
+    "event_date": "2026-04-03",
+    "item_group": "wiper-blade",
+    "region": "중부 거점",
+    "event_flag": "lead_time_watch",
+    "expected_inflow": 80,
+    "signal_score": 12,
+    "source": "물류 리포트",
+    "description": "중부 물류 구간에서 리드타임이 2-3일 증가할 가능성"
+  },
+  {
+    "event_date": "2026-04-04",
+    "item_group": "brake-pad",
+    "region": "수도권 거점",
+    "event_flag": "stable_baseline",
+    "expected_inflow": 20,
+    "signal_score": 4,
+    "source": "수요 모니터링",
+    "description": "비교 품목은 기준 수요 범위 안에서 움직임"
+  }
+]

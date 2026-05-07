@@ -1,0 +1,5 @@
+snapshot_week,item_code,item_name,location,on_hand,inbound_qty,reorder_point,safety_stock,lead_time_days,moq,order_multiple
+2026-W13,wiper-blade,와이퍼 블레이드,수도권 거점,1180,360,940,520,5,300,50
+2026-W13,wiper-blade,와이퍼 블레이드,중부 거점,760,120,720,430,7,200,50
+2026-W13,wiper-blade,와이퍼 블레이드,남부 거점,640,180,680,390,6,200,50
+2026-W13,brake-pad,브레이크 패드,수도권 거점,980,240,820,460,4,250,50
